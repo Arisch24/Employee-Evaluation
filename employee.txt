@@ -1,0 +1,3 @@
+AC:54366:John Doe:000502-07-0871:15-11-1999:012-5987635:Lorong lorong Taman taman 24:19400:Sabah:johndoe45@gmail.com
+AC:12345:Tan Mei Lee:001212-05-1234:12-12-2000:012-9999999:No 5, Jalan Gembira:53200:KL:tanml@tarc.com
+HR:12349:Kang King Kong:000820-04-2467:20-08-2000:012-5555555:No 88, Tmn Indah Tampin:73000:NS:kangkk@tarc.com

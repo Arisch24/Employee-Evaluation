@@ -1,0 +1,6 @@
+KW:Knowledge of Work:Demonstrates the ability and skills in applying the knowledge to one's job
+QW:Quality of Work:Ability to achieve the desired results in all aspects of work
+LD:Leadership:Ability to inspire, guide, motivate and lead colleagues and subordinates in all matters at work to the extent of developing their potential
+RR:Responsibility and Reliability:Ability to wotk with minimum supervision & Willingness to take ownership and accountable of the job assigned
+GG:Good gone:Gone case already for today
+DP:Determination and Perseverance:Shows determination and perseverance and is persistant in doing their job.
